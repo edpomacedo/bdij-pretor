@@ -1,0 +1,23 @@
+Execução invertida
+Fazenda Pública. Procedimento comum. Cumprimento espontâneo. Princípio processual da cooperação. Descabimento de medida impositiva.
+Não é possível a determinação judicial à Fazenda Pública de adoção da prática jurisprudencial da execução invertida no cumprimento de sentença em procedimento comum.
+
+Cinge-se a controvérsia a definir se é possível a determinação judicial à Fazenda Pública, de adoção da prática jurisprudencial da execução invertida no cumprimento de sentença, com a consequente apresentação de demonstrativo de cálculos e valores a serem pagos.
+
+O procedimento denominado "execução invertida" consiste na modificação do rito processual estabelecido no Código de Processo Civil, ofertando à parte executada (devedor) a possibilidade de apresentação dos cálculos e valor devido à parte exequente (credor). Não há previsão legal de tal mecanismo processual, sendo ele uma construção jurisprudencial.
+
+No âmbito do STJ, em observância mesmo aos princípios do CPC, a construção jurisprudencial da "execução invertida" tem como fundamento basilar a "conduta espontânea" do devedor. Para tanto, tal espontaneidade e voluntariedade em antecipar-se na apresentação dos cálculos da execução, e por decorrência, acelerar o processo atendendo deste modo outro princípio processual (tempo razoável do processo), gera a recompensa da não condenação em honorários advocatícios.
+
+A técnica processual acima possui relevância e legitimidade nas causas previdenciárias, notadamente aquelas em curso nos Juizados Especiais. Tanto assim que o Supremo Tribunal Federal, quando do julgamento da Arguição de Descumprimento de Preceito Fundamental n. 219, disciplinou: ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL - ADEQUAÇÃO. Cumpre ao Supremo, ante o objetivo da ação nobre que é a de descumprimento de preceito fundamental, o implemento de visão interpretativa generosa, contribuindo para a eficácia do Direito, a racionalização dos trabalhos judiciários, alfim, a manutenção da paz social. JUIZADOS ESPECIAIS - EXECUÇÃO - CÁLCULOS. A interpretação teleológico-sistemática da ordem jurídica, calcada na Constituição Federal como documento maior da República, conduz a placitar-se a óptica segundo a qual incumbe ao órgão da Administração Pública acionado, à pessoa jurídica de direito público, apresentar os cálculos indispensáveis à solução rápida e definitiva da controvérsia, prevalecendo o interesse primário - da sociedade - e não o secundário - o econômico da Fazenda Pública. Os interesses secundários não são atendíveis senão quando coincidirem com os primários, únicos que podem ser perseguidos por quem axiomaticamente os encara e representa - Celso Antônio Bandeira de Mello - Curso de Direito Administrativo 2010, página 23. (ADPF 219, Relator(a): Marco Aurélio, Tribunal Pleno, julgado em 20/5/2021, Processo eletrônico DJe-200 divulg. 6-10-2021 public. 7-10-2021).
+
+Conquanto abrangente, por tratar-se de ação constitucional, o precedente acima possui nuanças próprias, dentre as quais os próprios limites de aplicabilidade do precedente jurisprudencial: decisões proferidas pelos Juizados Especiais.
+
+Nesse contexto, em que pese a importância e realce dos princípios que regem o microssistema dos juizados especiais, não há possibilidade de imposição automática de tais princípios, e por decorrência seus efeitos, para o âmbito dos processos ordinários (comuns). No campo do processo civil, ordenado pelo Código de Processo Civil, outros princípios e vetores de julgamento sobressaem, como por exemplo: princípio da cooperação e comportamento processual probo (boa-fé).
+
+No caso em exame, o Tribunal a quo deveria ter intimado previamente a parte executada ofertando-lhe a possibilidade de cumprimento espontâneo da sentença. Caberia então a parte decidir pela apresentação ou não dos cálculos e valores devidos. Não o fazendo, assumiria por sua conta própria a responsabilidade da condenação em honorários advocatícios, decorrentes da execução (princípio da causalidade) Tal procedimento prévio de intimação da Fazenda Pública possui substrato na jurisprudência do STJ.
+
+Recomendável, deveras, que a Fazenda Pública adotasse, principalmente na seara previdenciária, o procedimento de antecipação voluntária na demonstração dos cálculos para execução. Desse modo, cumpriria o princípio da celeridade processual, bem como se desvencilharia de custos para o erário com condenações em honorários advocatícios (princípio da causalidade). Contudo, repita-se, tal procedimento, com base na jurisprudência do STJ, possui a característica primordial da espontaneidade da parte executada, não cabendo imposições cogentes da autoridade judicial.
+
+PRECEDENTES QUALIFICADOS
+
+ADPF 219

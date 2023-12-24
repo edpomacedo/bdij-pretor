@@ -1,0 +1,21 @@
+B3
+Canal Eletrônico do Investidor (CEI). Acesso não autorizado no perfil do investidor. Obrigação de excluir dados cadastrais inseridos indevidamente por terceiros.
+A B3, na condição de agente de tratamento de dados, tem a obrigação de excluir os dados cadastrais inseridos indevidamente por terceiros que obtiveram acesso não autorizado ao perfil do investidor em sua plataforma virtual.
+
+A B3, ao manter um sistema que armazena e utiliza dados dos investidores referentes à sua identificação pessoal (p.ex. nome, CPF, e-mail e número de telefone), realiza operação de tratamento de dados pessoais, razão pela qual se submete às normas previstas na LGPD, inclusive às obrigações nela previstas.
+
+Dentre os princípios previstos na LGPD a serem observados na atividade de tratamento de dados pessoais, está o da adequação, consistente na "compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento" (art. 6º, II); e o da segurança, consistente na "utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão" (arts. 6º, VII, e 46).
+
+Em relação à segurança, dispõe ainda o art. 47 da LGPD que "os agentes de tratamento ou qualquer outra pessoa que intervenha em uma das fases do tratamento obriga-se a garantir a segurança da informação prevista nesta Lei em relação aos dados pessoais, mesmo após o seu término".
+
+Em harmonia com esses princípios, o art. 18, III e IV, da LGPD confere ao titular dos dados pessoais o direito subjetivo de requisitar a "correção de dados incompletos, inexatos ou desatualizados"; e a "anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto nesta Lei".
+
+Segundo a doutrina, por meio desse dispositivo a Lei positivou direitos "que já eram atribuídos de longa data ao direito à privacidade", consagrando "medidas e procedimentos que podem ser adotados pelo titular de dados ou que devem ser implementados pelo agente de tratamento, com vistas a efetivar a tutela da privacidade e, mais do que isso, mensurar a extensão da tutela desse direito".
+
+Sob esse enfoque, havendo requisição por parte do titular, o agente de tratamento de dados tem a obrigação de excluir os dados cadastrais inverídicos inseridos por terceiros que obtiveram acesso não autorizado à conta do titular em sua plataforma, em observância aos arts. 18, IV, c/c os arts. 46 a 49 e 6º, II e VII, da LGPD.
+
+Dessa forma, tendo-se em vista que a B3 administra de forma exclusiva a sua plataforma virtual (CEI), por meio da qual armazena dados pessoais do investidor, de modo que, se houve alteração indevida desses dados, a B3, na condição de agente de tratamento de dados, pode ser compelida a exclui-los, em observância aos arts. 18, IV, c/c os arts. 46 a 49 e 6º, II e VII, da LGPD.
+
+LEGISLAÇÃO
+
+Lei n. 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), art. 6º, II e VII, art. 18, IV, art. 46 e art. 49

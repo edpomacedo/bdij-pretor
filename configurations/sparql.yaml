@@ -1,7 +1,6 @@
-# Pretor/1.0 - @edpomacedo - sparql.yaml
-
+# Pretor/1.0 - @edpomacedo - configurations/sparql.yaml
 sparql_config:
-  ontologies:
+  ontology:
     bd: "http://www.bigdata.com/rdf#"
     cc: "http://creativecommons.org/ns#"
     dct: "http://purl.org/dc/terms/"

@@ -1,0 +1,35 @@
+ICMS-ST
+Substituição tributária progressiva. Substituído. Contribuição ao PIS. COFINS. Base de cálculo. Exclusão. Tema 1125.
+O ICMS-ST não compõe a base de cálculo da Contribuição ao PIS e da COFINS, devidas pelo contribuinte substituído no regime de substituição tributária progressiva.
+
+Quanto ao tema o Supremo Tribunal Federal decidiu, em caráter definitivo, por meio de precedente vinculante, que os conceitos de faturamento e receita, contidos no art. 195, I, "b", da Constituição Federal, para fins de incidência da Contribuição ao PIS e da COFINS, não albergam o ICMS (RE n. 574.706/PR, Rel. Ministra Cármen Lúcia, Tribunal Pleno, julgado em 15/03/2017, DJe 02/10/2017), firmando a seguinte tese da repercussão geral: "O ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS" (Tema 69).
+
+No tocante ao ICMS-ST, contudo, a Suprema Corte, nos autos do RE n. 1.258.842/RS, reconheceu a ausência de repercussão geral sobre o tema, firmando a seguinte tese: "É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à inclusão do montante correspondente ao ICMS destacado nas notas fiscais ou recolhido antecipadamente pelo substituto em regime de substituição tributária progressiva na base de cálculo da contribuição ao PIS e da COFINS" (Tema 1.098).
+
+Nesse cenário, constitui missão do Superior Tribunal de Justiça definir sobre a exclusão do ICMS-ST da base de cálculo da Contribuição ao PIS e da COFINS, à luz tanto da legislação infraconstitucional quanto das diretrizes traçadas pelo Supremo Tribunal Federal quanto do julgamento do Tema 69 da repercussão geral.
+
+O regime de substituição tributária - que concentra, em regra, em um único contribuinte o dever de pagar pela integralidade do tributo devido pelos demais integrantes da cadeia produtiva - constitui mecanismo especial de arrecadação destinado a conferir, sobretudo, maior eficiência ao procedimento de fiscalização, não configurando incentivo ou benefício fiscal, tampouco implicando aumento ou diminuição da carga tributária.
+
+O substituído é quem pratica o fato gerador do ICMS-ST, ao transmitir a titularidade da mercadoria, de forma onerosa, sendo que, por uma questão de praticidade contida na norma jurídica, a obrigação tributária recai sobre o substituto, que, na qualidade de responsável, antecipa o pagamento do tributo, adotando técnicas previamente estabelecidas na lei para presumir a base de cálculo.
+
+Os contribuintes (substituídos ou não) ocupam posições jurídicas idênticas quanto à submissão à tributação pelo ICMS, sendo certo que a distinção entre eles encontra-se tão somente no mecanismo especial de recolhimento, de modo que é incabível qualquer entendimento que contemple majoração de carga tributária ao substituído tributário tão somente em razão dessa peculiaridade na forma de operacionalizar a cobrança do tributo.
+
+A interpretação do disposto nos arts. 1º das Leis n. 10.637/2002 e 10.833/2003 e 12 do Decreto-Lei n. 1.598/1977, realizada especialmente à luz dos princípios da igualdade tributária, da capacidade contributiva e da livre concorrência e da tese fixada em repercussão geral (Tema 69 do STF), conduz ao entendimento de que devem ser excluídos os valores correspondentes ao ICMS-ST destacado da base de cálculo da Contribuição ao PIS e da COFINS devidas pelo substituído no regime de substituição progressiva.
+
+Diante da circunstância de que a submissão ao regime de substituição depende de lei estadual, a indevida distinção entre ICMS regular e ICMS-ST na composição da base de cálculo das contribuições em tela concederia aos Estados e ao Distrito Federal a possibilidade de invadir a competência tributária da União, comprometendo o pacto federativo, ao tempo que representaria espécie de isenção heterônoma.
+
+Assim, para fins do recurso repetitivo, firma-se a tese no sentido de que "o ICMS-ST não compõe a base de cálculo da Contribuição ao PIS e da COFINS, devidas pelo contribuinte substituído no regime de substituição tributária progressiva".
+
+LEGISLAÇÃO
+
+Lei n. 10.637/2002, art. 1º
+
+Lei n. 10.833/2003, art. 1º
+
+Decreto-Lei n. 1.598/1977, art. 12
+
+PRECEDENTES QUALIFICADOS
+
+Tema n. 69/STF
+
+Tema n. 1.098/STF

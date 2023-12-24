@@ -1,8 +1,14 @@
-# Pretor/1.0 - @edpomacedo - oauth.yaml
+# Pretor/1.1 - @edpomacedo - configurations/oauth.yaml
 # Please refer to https://web.bdij.com.br/wiki/Special:OAuthConsumerRegistration
-
 oauth_config:
-  consumer_key: ""
-  consumer_secret: ""
-  access_token: ""
-  access_token_secret: ""
+  v1:
+    consumer_key: ""
+    consumer_secret: ""
+    access_token: ""
+    access_token_secret: ""
+  v2:
+    access_token: "" 
+    token_type: "" 
+    expires_in: "" 
+    scope: "" 
+    refresh_token: ""

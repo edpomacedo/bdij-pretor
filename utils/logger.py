@@ -1,4 +1,4 @@
-# utils/logger.py
+# Pretor/1.0 - @edpomacedo - utils/logger.py
 import logging
 import os
 

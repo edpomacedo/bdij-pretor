@@ -1,14 +1,11 @@
-# operations/uploader.py
+# Pretor/1.1 - @edpomacedo - operations/processar_ementas.py
 import os
-from requests_oauthlib import OAuth1
-from api_handler import obter_token_edicao, realizar_edicao
-from config import OAUTH_CONFIG
-import time
+from modules.obter_entrada_usuario import obter_entrada_usuario
+from modules.obter_token_edicao import obter_token_edicao
+from modules.validar_credenciais import validar_credenciais
+from modules.realizar_edicao import realizar_edicao
 
-def obter_entrada_usuario(mensagem):
-    return input(mensagem)
-
-def processar_arquivos():
+def processar_ementas():
     # Obtém o caminho para a pasta "documents" do projeto
     diretorio_base = os.path.join(os.getcwd(), 'documents')
 
@@ -18,19 +15,8 @@ def processar_arquivos():
     # Monta o caminho completo para o diretório
     diretorio = os.path.join(diretorio_base, subdiretorio)
 
-    # Utilizando as credenciais do arquivo de configuração
-    consumer_key = OAUTH_CONFIG['consumer_key']
-    consumer_secret = OAUTH_CONFIG['consumer_secret']
-    access_token = OAUTH_CONFIG['access_token']
-    access_token_secret = OAUTH_CONFIG['access_token_secret']
-
-    # Configuração do cliente OAuth1
-    oauth = OAuth1(
-        consumer_key,
-        client_secret=consumer_secret,
-        resource_owner_key=access_token,
-        resource_owner_secret=access_token_secret
-    )
+    # Utilizar as credenciais
+    oauth = validar_credenciais()
 
     # Obter o token de edição
     token = obter_token_edicao(oauth)
@@ -51,8 +37,5 @@ def processar_arquivos():
             # Realizar a verificação e edição na página, passando o nome do arquivo
             realizar_edicao(page_title, post_content, token, oauth, arquivo)
 
-            # Aguardar 2 segundos antes da próxima postagem
-            time.sleep(2)
-
 if __name__ == "__main__":
-    processar_arquivos()
+    processar_ementas()

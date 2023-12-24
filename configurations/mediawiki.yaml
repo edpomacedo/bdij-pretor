@@ -1,9 +1,14 @@
-# Pretor/1.0 - @edpomacedo - mediawiki.yaml
-
+# Pretor/1.1 - @edpomacedo - configurations/mediawiki.yaml
 mediawiki_config:
-  user_agent: "Pretor/1.0 (https://web.bdij.com.br/User:Pretor; pretor@bdij.com.br)"
-  article_path: "https://web.bdij.com.br/wiki/"
-  script_path: "https://web.bdij.com.br/w/"
-  index_url: "https://web.bdij.com.br/w/index.php"
-  api_url: "https://web.bdij.com.br/w/api.php"
-  rest_url: "https://web.bdij.com.br/w/rest.php"
+  user:
+    user_agent: "Pretor/1.0 (https://web.bdij.com.br/User:Pretor; pretor@bdij.com.br)"
+  path:
+    article_path: "https://web.bdij.com.br/wiki/"
+    script_path: "https://web.bdij.com.br/w/"
+  url:
+    index_url: "https://web.bdij.com.br/w/index.php"
+    api_url: "https://web.bdij.com.br/w/api.php"
+    rest_url: "https://web.bdij.com.br/w/rest.php"
+  namespace:
+    talk: "Talk:"
+    project: "Project:"
