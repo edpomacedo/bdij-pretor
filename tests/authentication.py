@@ -1,4 +1,4 @@
-# Pretor/1.0 - @edpomacedo - config.py
+# Pretor/1.0 - @edpomacedo - tests/authentication.py
 
 import sys
 import os

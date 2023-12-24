@@ -16,6 +16,7 @@
 │   ├── data_parser.py
 ├── operations/
 │   ├── page_management.py
+│   ├── uploader.py
 ├── snippets/
 │   ├── sparql_queries/
 │   │   ├── assunto.rq
