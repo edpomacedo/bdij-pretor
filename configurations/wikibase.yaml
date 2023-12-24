@@ -1,0 +1,12 @@
+# Pretor/1.0 - @edpomacedo - wikibase.yaml
+
+wikibase_config:
+  url:
+    item_url: "https://web.bdij.com.br/wiki/Item:"
+    property_url: "https://web.bdij.com.br/wiki/Property:"
+    lexeme_url: "https://web.bdij.com.br/wiki/Lexeme:"
+    endpoint_url: "https://web.bdij.com.br/query/sparql"
+  prefix:
+    item_prefix: "Q"
+    property_prefix: "P" 
+    lexeme_prefix: "L"
