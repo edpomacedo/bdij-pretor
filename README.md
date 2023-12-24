@@ -32,3 +32,9 @@
 ├── config.py
 ├── main.py
 ```
+
+## Bibliotecas
+
+```bash
+pip install PyYAML requests requests_oauthlib
+```
