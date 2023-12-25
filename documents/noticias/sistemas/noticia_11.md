@@ -1,0 +1,10 @@
+---
+title: "Sistemas ficarão fora do ar durante suspensão de atividades judiciais no STJ, a partir do dia 27"
+link: "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2023/21122023-Sistemas-ficarao-fora-do-ar-durante-suspensao-de-atividades-judiciais-no-STJ--a-partir-do-dia-27.aspx"
+description: "Sistemas ficarão fora do ar durante suspensão de atividades judiciais no STJ, a partir do dia 27"
+pubdate: "Qui, dez 21 2023 07:25:00"
+---
+
+## Conteúdo
+
+Todos os sistemas informatizados do Superior Tribunal de Justiça (STJ) integrados ao Sistema Justiça ficarão fora do ar entre os dias 27 e 31 de dezembro, período em que as atividades judiciais estarão suspensas na corte devido à realização de serviços de manutenção em seu ambiente tecnológico.De acordo com a Resolução STJ/GP 39/2023, que determinou a suspensão, o tribunal funcionará nesse período em regime de plantão – o qual se estenderá até 1º de janeiro, por causa do feriado.No período, somente serão despachadas as medidas urgentes de que trata o artigo 4º da Instrução Normativa STJ 6/2012, as quais deverão ser requeridas pelo e-mail protocolo.emergencial@stj.jus.br e serão decididas pela Presidência do STJ.A paralisação das atividades judiciais se deve à migração da estrutura e do conteúdo do atual banco de dados do STJ, o IBM Db2, para o banco de dados Oracle. Como a mudança é estrutural, todos os sistemas que acessam o banco de dados do Sistema Justiça ficarão totalmente inacessíveis, tanto para usuários internos quanto para o público em geral.Durante a migração, estarão fora do ar:Sistema de Peticionamento;Todos os módulos do SIAJ (Sistema Integrado de Atividade Judiciária – Sistema Justiça);Sistema de Cobrança da Guia de Recolhimento da União (GRU);Central do Processo Eletrônico (CPE);Diário da Justiça Eletrônico (DJE);Página de Jurisprudência; eConsulta Processual.Informações adicionais podem ser obtidas no Serviço de Atendimento ao Cliente (SAC), no telefone (61) 3319-9393 ou pelo e-mail sac@stj.jus.br.

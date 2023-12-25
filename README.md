@@ -1,4 +1,4 @@
-# BDIJ-PRETOR/1.4
+# BDIJ-PRETOR/1.5
 
 ![doi:10.5281/zenodo.10429686](https://zenodo.org/badge/DOI/10.5281/zenodo.10429686.svg)
 
@@ -27,6 +27,10 @@ Na atual versão, o PRETOR oferece as seguintes funcionalidades:
 5. **Extrair Texto de Acórdão:**
    - Processa um acórdão (.pdf) e extrai o texto do documento.
    - Realiza a extração do texto dos documentos e os registra no espaço nominal `File:` da BDIJ.
+
+6. **Processar Notícias:**
+   - Processa feeds RSS (.xml) e recupera as notícias emanadas dos Tribunais.
+   - Realiza o mapeamento das notícias, sanitiza o texto, categoriza por palavras-chave e armazena uma cópia referenciada em `.md`.
 
 ## Estrutura
 
