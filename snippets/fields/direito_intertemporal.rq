@@ -1,0 +1,12 @@
+# Pretor/1.3 - @edpomacedo - snippets/fields/direito_intertemporal.rq
+PREFIX p: <https://web.bdij.com.br/prop/>
+PREFIX wd: <https://web.bdij.com.br/entity/>
+PREFIX wdt: <https://web.bdij.com.br/prop/direct/>
+
+SELECT ?item ?itemLabel ?itemDescription ?itemAltLabel
+WHERE {
+  ?item wdt:P31 wd:Q220 .
+  ?item p:P31 ?instance_statement .
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "pt-br" . }
+}

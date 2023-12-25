@@ -1,4 +1,4 @@
-# Pretor/1.2 - @edpomacedo - main.py
+# Pretor/1.3 - @edpomacedo - main.py
 import sys
 import os
 
@@ -9,6 +9,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from operations.processar_ementas import processar_ementas
 from operations.processar_informativos import processar_informativos
 from operations.criar_artigo_lei import criar_artigo_lei
+from operations.criar_lista_entidades import criar_lista_entidades
 
 # Seleção de processo a executar via terminal
 def main():
@@ -16,6 +17,7 @@ def main():
     print("1. Processar ementas")
     print("2. Processar informativos")
     print("3. Criar artigo de legislação")
+    print("4. Criar lista de entidades")
 
     escolha = input("Digite o número da operação desejada: ")
 
@@ -31,6 +33,8 @@ def main():
 
         # Chamar a função com os valores fornecidos
         criar_artigo_lei(primeiro_valor, ultimo_valor, norma_juridica)
+    elif escolha == "4":
+        criar_lista_entidades()
     else:
         print("Opção inválida. Encerrando o programa.")
 

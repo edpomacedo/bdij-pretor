@@ -1,0 +1,15 @@
+# Pretor/1.3 - @edpomacedo - snippets/lexemes/lindb.rq
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX wd: <https://web.bdij.com.br/entity/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+
+SELECT ?lexeme ?lemma ?sense ?text
+WHERE {
+  ?lexeme dct:language wd:Q2093; 
+          wikibase:lexicalCategory wd:Q2138.
+  ?lexeme wikibase:lemma ?lemma.
+  ?lexeme ontolex:sense ?sense.
+  ?sense skos:definition ?text.
+}

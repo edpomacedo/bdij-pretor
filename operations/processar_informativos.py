@@ -1,4 +1,4 @@
-# Pretor/1.1 - @edpomacedo - operations/processar_arquivos.py
+# Pretor/1.1 - @edpomacedo - operations/processar_informativos.py
 import os
 from modules.obter_entrada_usuario import obter_entrada_usuario
 from modules.obter_token_edicao import obter_token_edicao

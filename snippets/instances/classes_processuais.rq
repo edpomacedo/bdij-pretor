@@ -1,0 +1,12 @@
+# Pretor/1.3 - @edpomacedo - snippets/instances/classes_processuais.rq
+PREFIX p: <https://web.bdij.com.br/prop/>
+PREFIX wd: <https://web.bdij.com.br/entity/>
+PREFIX wdt: <https://web.bdij.com.br/prop/direct/>
+
+SELECT ?item ?itemLabel ?itemDescription ?itemAltLabel
+WHERE {
+  ?item wdt:P1 wd:Q2781 .
+  ?item p:P1 ?instance_statement .
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "pt-br,[AUTO_LANGUAGE]" . }
+}

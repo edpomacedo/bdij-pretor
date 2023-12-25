@@ -1,0 +1,77 @@
+{| class="wikitable sortable" style="width:100%;"
+|+ Número de resultados: 36
+|-
+! lexeme !! sense !! text !! lemma
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S1|L142-S1]] || São brasileiros: || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S2|L142-S2]] || I - natos: || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S3|L142-S3]] || a) os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S4|L142-S4]] || b) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S5|L142-S5]] || c) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que sejam registrados em repartição brasileira competente, ou venham a residir na República Federativa do Brasil antes da maioridade e, alcançada esta, optem, em qualquer tempo, pela nacionalidade brasileira; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S6|L142-S6]] || c) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que venham a residir na República Federativa do Brasil e optem, em qualquer tempo, pela nacionalidade brasileira; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S7|L142-S7]] || c) os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde que sejam registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S8|L142-S8]] || II - naturalizados: || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S10|L142-S10]] || b) os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de trinta anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira. || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S11|L142-S11]] || b) os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de quinze anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira. || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S9|L142-S9]] || a) os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S12|L142-S12]] || § 1º Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro nato, salvo os casos previstos nesta Constituição. || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S13|L142-S13]] || § 1º Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro, salvo os casos previstos nesta Constituição. || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S14|L142-S14]] || § 2º A lei não poderá estabelecer distinção entre brasileiros natos e naturalizados, salvo nos casos previstos nesta Constituição. || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S15|L142-S15]] || § 3º São privativos de brasileiro nato os cargos: || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S16|L142-S16]] || I - de Presidente e Vice-Presidente da República; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S17|L142-S17]] || II - de Presidente da Câmara dos Deputados; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S18|L142-S18]] || III - de Presidente do Senado Federal; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S19|L142-S19]] || IV - de Ministro do Supremo Tribunal Federal; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S20|L142-S20]] || V - da carreira diplomática; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S21|L142-S21]] || VI - de oficial das Forças Armadas. || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S22|L142-S22]] || VII - de Ministro de Estado da Defesa. || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S23|L142-S23]] || § 4º Será declarada a perda da nacionalidade do brasileiro que: || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S24|L142-S24]] || I - tiver cancelada sua naturalização, por sentença judicial, em virtude de atividade nociva ao interesse nacional; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S25|L142-S25]] || I - tiver cancelada sua naturalização, por sentença judicial, em virtude de fraude relacionada ao processo de naturalização ou de atentado contra a ordem constitucional e o Estado Democrático; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S26|L142-S26]] || II - adquirir outra nacionalidade por naturalização voluntária. || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S27|L142-S27]] || II - adquirir outra nacionalidade, salvo nos casos: || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S28|L142-S28]] || a) de reconhecimento de nacionalidade originária pela lei estrangeira; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S29|L142-S29]] || b) de imposição de naturalização, pela norma estrangeira, ao brasileiro residente em estado estrangeiro, como condição para permanência em seu território ou para o exercício de direitos civis; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S30|L142-S30]] || II - fizer pedido expresso de perda da nacionalidade brasileira perante autoridade brasileira competente, ressalvadas situações que acarretem apatridia. || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S31|L142-S31]] || a) revogada; || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S32|L142-S32]] || b) revogada. || Art. 12
+|-
+| [[Lexeme:L142|L142]] || [[Lexeme:L142#S33|L142-S33]] || § 5º A renúncia da nacionalidade, nos termos do inciso II do § 4º deste artigo, não impede o interessado de readquirir sua nacionalidade brasileira originária, nos termos da lei. || Art. 12
+|-
+| [[Lexeme:L143|L143]] || [[Lexeme:L143#S1|L143-S1]] || A língua portuguesa é o idioma oficial da República Federativa do Brasil. || Art. 13
+|-
+| [[Lexeme:L143|L143]] || [[Lexeme:L143#S2|L143-S2]] || § 1º São símbolos da República Federativa do Brasil a bandeira, o hino, as armas e o selo nacionais. || Art. 13
+|-
+| [[Lexeme:L143|L143]] || [[Lexeme:L143#S3|L143-S3]] || § 2º Os Estados, o Distrito Federal e os Municípios poderão ter símbolos próprios. || Art. 13
+|}

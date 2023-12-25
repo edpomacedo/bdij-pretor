@@ -1,4 +1,4 @@
-# BDIJ-PRETOR/1.2
+# BDIJ-PRETOR/1.3
 
 ![doi:10.5281/zenodo.10429686](https://zenodo.org/badge/DOI/10.5281/zenodo.10429686.svg)
 
@@ -19,6 +19,10 @@ Na atual versão, o PRETOR oferece as seguintes funcionalidades:
 3. **Criar Artigos de Legislação:**
    - Processa um intervalo entre 'Art. x' e 'Art. y' de uma dada norma jurídica.
    - Realiza o registro dos dispositivos informados como Lexemas e os vincula a uma norma jurídica segundo o QID.
+
+4. **Criar Lista de Entidades:**
+   - Processa uma consulta sparql (.rq) e armazena os resultados em uma tabela wikitext.
+   - Realiza atualização das listas do projeto contendo as entidades registradas na BDIJ.
 
 ## Estrutura
 

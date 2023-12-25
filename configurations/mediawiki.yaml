@@ -1,4 +1,4 @@
-# Pretor/1.1 - @edpomacedo - configurations/mediawiki.yaml
+# Pretor/1.3 - @edpomacedo - configurations/mediawiki.yaml
 mediawiki_config:
   user:
     user_agent: "Pretor/1.0 (https://web.bdij.com.br/User:Pretor; pretor@bdij.com.br)"
@@ -11,4 +11,7 @@ mediawiki_config:
     rest_url: "https://web.bdij.com.br/w/rest.php"
   namespace:
     talk: "Talk:"
+    file: "File:"
+    file_talk: "File_talk:"
     project: "Project:"
+    project_talk: "Project_talk:"
