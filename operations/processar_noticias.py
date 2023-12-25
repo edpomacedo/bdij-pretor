@@ -1,4 +1,4 @@
-# Pretor/1.5 - @edpomacedo - operations/processar_noticias.py
+# Pretor/1.5.1 - @edpomacedo - operations/processar_noticias.py
 import os
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
@@ -9,6 +9,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import feedparser
 from urllib.parse import urlparse  
 from utils.feeds_list import feeds
+# from gtts import gTTS
 from modules.extrair_palavra_chave import extrair_palavra_chave
 from modules.tratar_texto_html import limpar_html_para_markdown
 from modules.salvar_noticia_markdown import salvar_noticia_como_markdown
@@ -58,11 +59,19 @@ def processar_noticias():
 
         # Criar o caminho do arquivo com base no título da notícia
         caminho_arquivo = os.path.join(subpasta, f'noticia_{i + 1}.md')
+        
+        # Caminho do arquivo de áudio
+        # caminho_audio = os.path.join(subpasta, f'noticia_{i + 1}.mp3')
+
+        # Converter o conteúdo da notícia em áudio usando gTTS
+        # tts = gTTS(content, lang='pt-br')
+        # tts.save(caminho_audio)
 
         # Salvar a notícia no formato Markdown
         salvar_noticia_como_markdown(titulo, link, descricao, pubdate, content, caminho_arquivo)
 
         print(f"Notícia {i + 1} processada e salva em: {caminho_arquivo}")
+        # print(f"Áudio da notícia {i + 1} salvo em: {caminho_audio}")
 
     # Categorizar as notícias
     categorizar_noticias_rss(feed_atom, pasta_destino)

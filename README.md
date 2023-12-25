@@ -1,4 +1,4 @@
-# BDIJ-PRETOR/1.5
+# BDIJ-PRETOR/1.5.1
 
 ![doi:10.5281/zenodo.10429686](https://zenodo.org/badge/DOI/10.5281/zenodo.10429686.svg)
 
@@ -31,6 +31,7 @@ Na atual versão, o PRETOR oferece as seguintes funcionalidades:
 6. **Processar Notícias:**
    - Processa feeds RSS (.xml) e recupera as notícias emanadas dos Tribunais.
    - Realiza o mapeamento das notícias, sanitiza o texto, categoriza por palavras-chave e armazena uma cópia referenciada em `.md`.
+   - Implementa a faculdade de exportar o conteúdo da notícia em áudio, para fins de acessibilidade.
 
 ## Estrutura
 
