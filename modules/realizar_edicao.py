@@ -11,7 +11,7 @@ def realizar_edicao(page_title, post_content, token, oauth, nome_arquivo):
         data_hora_atual = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         mensagem = f'A página {page_title} já existe. A edição não foi realizada.'
         print(f'[{data_hora_atual}] ({nome_arquivo}) {mensagem}')
-        logger.info(f'[{data_hora_atual}] ({nome_arquivo}) {mensagem}')
+        logger.info(f'({nome_arquivo}) {mensagem}')
         return
 
     # URL para a API de edição do MediaWiki

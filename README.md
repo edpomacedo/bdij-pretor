@@ -1,4 +1,6 @@
-# BDIJ-PRETOR/1.1
+# BDIJ-PRETOR/1.2
+
+![doi:10.5281/zenodo.10429686](https://zenodo.org/badge/DOI/10.5281/zenodo.10429686.svg)
 
 O PRETOR é um projeto desenvolvido para automatizar a postagem e gerenciamento de conteúdo na **Base de Dados de Institutos Jurídicos**, utilizando a API MediaWiki.
 
@@ -13,6 +15,10 @@ Na atual versão, o PRETOR oferece as seguintes funcionalidades:
 2. **Processar Informativos:**
    - Processa arquivos de texto (.txt) contendo informações do inteiro teor de julgados publicados em informativos.
    - Realiza o registro do texto dos informativos por instituto jurídico na BDIJ.
+
+3. **Criar Artigos de Legislação:**
+   - Processa um intervalo entre 'Art. x' e 'Art. y' de uma dada norma jurídica.
+   - Realiza o registro dos dispositivos informados como Lexemas e os vincula a uma norma jurídica segundo o QID.
 
 ## Estrutura
 
@@ -29,7 +35,7 @@ A estrutura geral pode ser assim entendida:
 
 ## Configurações
 
-Antes de utilizar o PRETOR, é necessário configurar as credenciais OAuth no arquivo de configuração (`config.py``).
+Antes de utilizar o PRETOR, é necessário configurar as credenciais OAuth no arquivo de configuração (`config.py`).
 
 Certifique-se de fornecer as informações corretas para permitir a autenticação segura.
 

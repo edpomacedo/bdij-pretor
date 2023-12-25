@@ -1,4 +1,4 @@
-# Pretor/1.0 - @edpomacedo - configurations/wikibase.yaml
+# Pretor/1.2 - @edpomacedo - configurations/wikibase.yaml
 wikibase_config:
   url:
     item_url: "https://web.bdij.com.br/wiki/Item:"
@@ -9,3 +9,6 @@ wikibase_config:
     item_prefix: "Q"
     property_prefix: "P" 
     lexeme_prefix: "L"
+  map:
+    default_language: 'pt-br'
+    default_lexeme_language: 'Q2093'
