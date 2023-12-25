@@ -1,4 +1,4 @@
-# BDIJ-PRETOR/1.3
+# BDIJ-PRETOR/1.4
 
 ![doi:10.5281/zenodo.10429686](https://zenodo.org/badge/DOI/10.5281/zenodo.10429686.svg)
 
@@ -23,6 +23,10 @@ Na atual versão, o PRETOR oferece as seguintes funcionalidades:
 4. **Criar Lista de Entidades:**
    - Processa uma consulta sparql (.rq) e armazena os resultados em uma tabela wikitext.
    - Realiza atualização das listas do projeto contendo as entidades registradas na BDIJ.
+
+5. **Extrair Texto de Acórdão:**
+   - Processa um acórdão (.pdf) e extrai o texto do documento.
+   - Realiza a extração do texto dos documentos e os registra no espaço nominal `File:` da BDIJ.
 
 ## Estrutura
 
