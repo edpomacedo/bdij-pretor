@@ -1,4 +1,4 @@
-# BDIJ-PRETOR/1.7
+# BDIJ-PRETOR/1.8
 
 ![doi:10.5281/zenodo.10429686](https://zenodo.org/badge/DOI/10.5281/zenodo.10429686.svg)
 
@@ -42,6 +42,10 @@ Na atual versão, o PRETOR oferece as seguintes funcionalidades:
    - Realiza a sintetização de texto-para-voz e salva o arquivo de áudio, para fins de acessibilidade.
    - Requer credenciais na Google Cloud Platform (GCP) e acesso à API Text-To-Speech.
 
+9. **Inserir Dispositivo Legal:**
+   - Processa arquivo de texto contendo letra de lei e a insere em um dado lexema.
+   - Realiza o mapeamento do arquivo de texto, onde cada linha se tornará um sentido (caput, parágrafos, incisos e alíneas) de um dado lexema.
+
 ## Estrutura
 
 O projeto PRETOR é estruturado em módulos para melhor organização e reutilização de código.
@@ -50,6 +54,7 @@ A estrutura geral pode ser assim entendida:
 
 - `documents/`: Contém subdiretórios para distribuição dos arquivos a serem processados;
 - `modules/`: Contém módulos específicos para funções individuais;
+- `notebooks/`: Contém rotinas individualizadas para processamento em ambiente virtual;
 - `operations/`: Contém operações específicas do sistema, isto é, rotinas a serem executadas;
 - `snippets/`: Contém fragmentos de código que potencialmente serão reutilizados;
 - `tests/`: Contém comandos para testar a operacionalidade do sistema;

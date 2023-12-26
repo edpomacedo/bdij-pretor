@@ -66,3 +66,10 @@ htmlcov/
 
 # Ignore testing database
 db.sqlite3
+
+# Manter a pasta documents e seus subdiretórios
+!documents/
+!documents/**
+
+# Ignorar o conteúdo dentro dos subdiretórios
+documents/**/*

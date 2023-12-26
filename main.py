@@ -14,6 +14,7 @@ from operations.extrair_texto_acordao import extrair_texto_acordao
 from operations.processar_noticias import processar_noticias
 from operations.criar_multimidia import criar_multimidia
 from operations.ditar_documento import ditar_documento
+from operations.inserir_dispositivo_legal import inserir_dispositivo_legal
 
 # Seleção de processo a executar via terminal
 def main():
@@ -26,6 +27,7 @@ def main():
     print("6. Processar notícias")
     print("7. Criar multimídia")
     print("8. Ditar documento")
+    print("9. Inserir dispositivo legal")
 
     escolha = input("Digite o número da operação desejada: ")
 
@@ -51,6 +53,10 @@ def main():
         criar_multimidia()
     elif escolha == "8":
         ditar_documento()
+    if escolha == "9":
+        # Alterar o diretório de trabalho para o diretório do script
+        os.chdir(os.path.dirname(os.path.abspath(__file__)))
+        inserir_dispositivo_legal()
     else:
         print("Opção inválida. Encerrando o programa.")
 
