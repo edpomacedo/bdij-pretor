@@ -1,4 +1,4 @@
-# BDIJ-PRETOR/1.6
+# BDIJ-PRETOR/1.7
 
 ![doi:10.5281/zenodo.10429686](https://zenodo.org/badge/DOI/10.5281/zenodo.10429686.svg)
 
@@ -36,6 +36,11 @@ Na atual versão, o PRETOR oferece as seguintes funcionalidades:
 7. **Criar Multimídia:**
    - Processa textos, áudios e imagens para compilá-los em um único arquivo multimídia.
    - Realiza o procedimento `TTS` nos arquivos de texto, baixa imagens via API da Unsplash, e compila os arquivos selecionados.
+
+8. **Ditar Documento:**
+   - Processa arquivo de texto e sintetiza o conteúdo em voz.
+   - Realiza a sintetização de texto-para-voz e salva o arquivo de áudio, para fins de acessibilidade.
+   - Requer credenciais na Google Cloud Platform (GCP) e acesso à API Text-To-Speech.
 
 ## Estrutura
 

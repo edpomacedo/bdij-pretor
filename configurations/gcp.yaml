@@ -1,0 +1,8 @@
+# Pretor/1.7 - @edpomacedo - configurations/gcp.yaml
+gcp_config:
+  tts:
+    api_key: ""
+    language_code: "pt-BR" 
+    voice_name: "pt-BR-Standard-B"
+    voice_gender: "NEUTRAL"
+    audio_encoding: "LINEAR16"
