@@ -7,10 +7,25 @@ from modules.obter_token_edicao import obter_token_edicao
 from modules.validar_credenciais import validar_credenciais
 from modules.realizar_edicao import realizar_edicao
 
+def obter_pasta_entrada():
+    print("Selecione a pasta de entrada:")
+    print("1. documents/acordaos")
+    print("2. documents/questoes")
+
+    escolha = input("Digite o número correspondente à opção desejada: ")
+
+    if escolha == "1":
+        return 'documents/acordaos'
+    elif escolha == "2":
+        return 'documents/questoes'
+    else:
+        print("Escolha inválida. Utilizando a pasta padrão 'documents/acordaos'.")
+        return 'documents/acordaos'
+
 # Define a função principal para extrair texto de acórdãos
 def extrair_texto_acordao():
     # Define os diretórios de entrada e saída, e o arquivo de controle
-    pasta_entrada = 'documents/acordaos'
+    pasta_entrada = obter_pasta_entrada()
     pasta_saida = 'documents/wikitext'
     arquivo_controle = 'logs/arquivos_processados.txt'
 
