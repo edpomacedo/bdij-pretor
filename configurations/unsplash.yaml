@@ -1,0 +1,9 @@
+# Pretor/1.6 - @edpomacedo - configurations/unsplash.yaml
+unsplash_config:
+  app: 
+    name: "BDIJ"
+    description: "PRETOR/1.6"
+  api: 
+    application_id: ""
+    access_key: ""
+    secret_key: ""

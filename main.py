@@ -1,4 +1,4 @@
-# Pretor/1.5 - @edpomacedo - main.py
+# Pretor/1.6 - @edpomacedo - main.py
 import sys
 import os
 
@@ -12,6 +12,7 @@ from operations.criar_artigo_lei import criar_artigo_lei
 from operations.criar_lista_entidades import criar_lista_entidades
 from operations.extrair_texto_acordao import extrair_texto_acordao
 from operations.processar_noticias import processar_noticias
+from operations.criar_multimidia import criar_multimidia
 
 # Seleção de processo a executar via terminal
 def main():
@@ -22,6 +23,7 @@ def main():
     print("4. Criar lista de entidades")
     print("5. Extrair texto de acórdão")
     print("6. Processar notícias")
+    print("7. Criar multimídia")
 
     escolha = input("Digite o número da operação desejada: ")
 
@@ -43,6 +45,8 @@ def main():
         extrair_texto_acordao()
     elif escolha == "6":
         processar_noticias()
+    elif escolha == "7":
+        criar_multimidia()
     else:
         print("Opção inválida. Encerrando o programa.")
 
