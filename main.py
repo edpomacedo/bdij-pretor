@@ -1,11 +1,5 @@
-# Pretor/1.7 - @edpomacedo - main.py
-import sys
+# Pretor/1.8.2 - @edpomacedo - main.py
 import os
-
-# Adicionando o diretório principal ao PATH
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-
-# Importando as operações
 from operations.processar_ementas import processar_ementas
 from operations.processar_informativos import processar_informativos
 from operations.criar_artigo_lei import criar_artigo_lei
@@ -16,7 +10,6 @@ from operations.criar_multimidia import criar_multimidia
 from operations.ditar_documento import ditar_documento
 from operations.inserir_dispositivo_legal import inserir_dispositivo_legal
 
-# Seleção de processo a executar via terminal
 def main():
     print("Selecione a operação que deseja realizar:")
     print("1. Processar ementas")
@@ -31,32 +24,23 @@ def main():
 
     escolha = input("Digite o número da operação desejada: ")
 
-    if escolha == "1":
-        processar_ementas()
-    elif escolha == "2":
-        processar_informativos()
-    elif escolha == "3":
-        # Inquirir valores no terminal
-        primeiro_valor = int(input("Digite o primeiro valor numérico para o loop: "))
-        ultimo_valor = int(input("Digite o último valor para o loop (exclusive): "))
-        norma_juridica = input("Digite o QID da norma jurídica (ex. Q2561): ")
+    operacoes = {
+        "1": processar_ementas,
+        "2": processar_informativos,
+        "3": lambda: criar_artigo_lei(int(input("Digite o primeiro valor numérico para o loop: ")),
+                                     int(input("Digite o último valor para o loop (exclusive): ")),
+                                     input("Digite o QID da norma jurídica (ex. Q2561): ")),
+        "4": criar_lista_entidades,
+        "5": extrair_texto_acordao,
+        "6": processar_noticias,
+        "7": criar_multimidia,
+        "8": ditar_documento,
+        "9": lambda: inserir_dispositivo_legal(),
+    }
 
-        # Chamar a função com os valores fornecidos
-        criar_artigo_lei(primeiro_valor, ultimo_valor, norma_juridica)
-    elif escolha == "4":
-        criar_lista_entidades()
-    elif escolha == "5":
-        extrair_texto_acordao()
-    elif escolha == "6":
-        processar_noticias()
-    elif escolha == "7":
-        criar_multimidia()
-    elif escolha == "8":
-        ditar_documento()
-    if escolha == "9":
-        # Alterar o diretório de trabalho para o diretório do script
+    if escolha in operacoes:
         os.chdir(os.path.dirname(os.path.abspath(__file__)))
-        inserir_dispositivo_legal()
+        operacoes[escolha]()
     else:
         print("Opção inválida. Encerrando o programa.")
 
