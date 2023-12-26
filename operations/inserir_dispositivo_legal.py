@@ -1,4 +1,4 @@
-# Pretor/1.8 - @edpomacedo - operations/inserir_dispositivo_legal.py
+# Pretor/1.8.1 - @edpomacedo - operations/inserir_dispositivo_legal.py
 import sys
 import os
 
@@ -7,6 +7,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from wikibaseintegrator.models import Sense
 from modules.iniciar_integrator import wbi
+from utils.logger import logger
 
 def obter_entity_id():
     return input("Digite o entity_id do lexema (ex. L8299): ")
@@ -85,6 +86,12 @@ def inserir_dispositivo_legal():
 
                 # Escrever o lexema de volta no Wikibase
                 lexeme.write()
+                
+                # Adicionar mensagem de terminal
+                print(f"Sentido adicionado ao lexema {entity_id}: {linha.strip()}")
+
+                # Adicionar registro no log
+                logger.info(f"Sentido adicionado ao lexema {entity_id}: {linha.strip()}")
 
 if __name__ == "__main__":
     inserir_dispositivo_legal()

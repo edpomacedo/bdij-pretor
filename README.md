@@ -1,4 +1,4 @@
-# BDIJ-PRETOR/1.8
+# BDIJ-PRETOR/1.8.1
 
 ![doi:10.5281/zenodo.10429686](https://zenodo.org/badge/DOI/10.5281/zenodo.10429686.svg)
 
