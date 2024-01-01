@@ -9,6 +9,7 @@ from operations.processar_noticias import processar_noticias
 from operations.criar_multimidia import criar_multimidia
 from operations.ditar_documento import ditar_documento
 from operations.inserir_dispositivo_legal import inserir_dispositivo_legal
+from operations.criar_enunciado import criar_enunciado
 
 def main():
     print("Selecione a operação que deseja realizar:")
@@ -21,6 +22,7 @@ def main():
     print("7. Criar multimídia")
     print("8. Ditar documento")
     print("9. Inserir dispositivo legal")
+    print("10. Criar enunciado")
 
     escolha = input("Digite o número da operação desejada: ")
 
@@ -36,6 +38,7 @@ def main():
         "7": criar_multimidia,
         "8": ditar_documento,
         "9": lambda: inserir_dispositivo_legal(),
+        "10": criar_enunciado,
     }
 
     if escolha in operacoes:
