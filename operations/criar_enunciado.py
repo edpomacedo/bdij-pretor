@@ -1,4 +1,4 @@
-# Pretor/1.9 - @edpomacedo - operations/criar_enunciado.py
+# Pretor/1.9.1 - @edpomacedo - operations/criar_enunciado.py
 from modules.iniciar_integrator import wbi
 from datetime import datetime
 from utils.logger import logger
@@ -19,13 +19,14 @@ def obter_selecao_usuario(opcoes):
 
 def criar_enunciado():
     # Pergunta ao usuário sobre a classe de enunciado
-    classes_disponiveis = ['Súmula', 'Súmula Vinculante']
+    classes_disponiveis = ['Súmula', 'Súmula Vinculante', 'Tema']
     classe_enunciado = obter_selecao_usuario(classes_disponiveis)
 
     # Mapeamento das QID para lexical_category de acordo com a classe de enunciado
     mapeamento_classe_lexical_category = {
         'Súmula': 'Q2908',
-        'Súmula Vinculante': 'Q2907'
+        'Súmula Vinculante': 'Q2907',
+        'Tema': 'Q2940'
         # Adicione outras classes conforme necessário
     }
 
@@ -56,7 +57,7 @@ def criar_enunciado():
         lexeme = wbi.lexeme.new(lexical_category=lexical_category)
 
         # Defina os lemas em português
-        lexeme.lemmas.set(language='pt-br', value=f'{classe_enunciado} {i}')
+        lexeme.lemmas.set(language='pt-br', value=f'{classe_enunciado} {i} do {origem_enunciado}')
 
         # Escreva o lexema
         lexeme.write()
