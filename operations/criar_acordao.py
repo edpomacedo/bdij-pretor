@@ -19,13 +19,14 @@ def obter_selecao_usuario(opcoes):
 
 def criar_acordao():
     # Pergunta ao usuário sobre a classe de enunciado
-    classes_disponiveis = ['ADPF', 'ADI']
+    classes_disponiveis = ['ADPF', 'ADI', 'ADC']
     classe_acordao = obter_selecao_usuario(classes_disponiveis)
 
     # Mapeamento das QID para lexical_category de acordo com a classe de enunciado
     mapeamento_classe_lexical_category = {
         'ADPF': 'Q2566',
-        'ADI': 'Q2565'
+        'ADI': 'Q2565',
+        'ADC': 'Q2944'
         # Adicione outras classes conforme necessário
     }
 
