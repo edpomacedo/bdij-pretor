@@ -1,4 +1,4 @@
-# Pretor/1.8.2 - @edpomacedo - main.py
+# Pretor/2.0 - @edpomacedo - main.py
 import os
 from operations.processar_ementas import processar_ementas
 from operations.processar_informativos import processar_informativos
@@ -10,6 +10,7 @@ from operations.criar_multimidia import criar_multimidia
 from operations.ditar_documento import ditar_documento
 from operations.inserir_dispositivo_legal import inserir_dispositivo_legal
 from operations.criar_enunciado import criar_enunciado
+from operations.criar_acordao import criar_acordao
 
 def main():
     print("Selecione a operação que deseja realizar:")
@@ -23,6 +24,7 @@ def main():
     print("8. Ditar documento")
     print("9. Inserir dispositivo legal")
     print("10. Criar enunciado")
+    print("11. Criar acórdão")
 
     escolha = input("Digite o número da operação desejada: ")
 
@@ -39,6 +41,7 @@ def main():
         "8": ditar_documento,
         "9": lambda: inserir_dispositivo_legal(),
         "10": criar_enunciado,
+        "11": criar_acordao,
     }
 
     if escolha in operacoes:

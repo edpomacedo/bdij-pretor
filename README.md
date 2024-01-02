@@ -1,4 +1,4 @@
-# BDIJ-PRETOR/1.9.1
+# BDIJ-PRETOR/2.0
 
 ![doi:10.5281/zenodo.10429686](https://zenodo.org/badge/DOI/10.5281/zenodo.10429686.svg)
 
@@ -46,9 +46,13 @@ Na atual versão, o PRETOR oferece as seguintes funcionalidades:
    - Processa arquivo de texto contendo letra de lei e a insere em um dado lexema.
    - Realiza o mapeamento do arquivo de texto, onde cada linha se tornará um sentido (caput, parágrafos, incisos e alíneas) de um dado lexema.
 
-9. **Criar Enunciado:**
+10. **Criar Enunciado:**
    - Processa lista de origens e classes de enunciados e cria um lexema correspondente, de acordo com o intervalo numérico informado.
    - Realiza a criação de novos lexemas para a recepção de enunciados (súmulas, súmulas vinculantes, orientações jurisprudenciais etc.).
+
+11. **Criar Acórdão:**
+   - Processa lista de origens e classes de acórdãos e cria um lexema correspondente, de acordo com o intervalo numérico informado.
+   - Realiza a criação de novos lexemas para a recepção de acórdãos (ADPF, ADI, ADC etc.).
 
 ## Estrutura
 
